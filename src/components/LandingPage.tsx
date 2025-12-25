@@ -177,7 +177,7 @@ export default function LandingPage({ onGetStarted }: LandingPageProps) {
               >
                 <img
                   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9SDhWvIaGwyyoH9wENFZ4EFEqQCr4UXIVjw&s"
-                  alt="CredSphere Logo"
+                  alt="ZK LEDGER Logo"
                   className="w-16 h-16 rounded-lg object-cover"
                 />
               </motion.div>

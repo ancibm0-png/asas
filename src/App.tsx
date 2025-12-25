@@ -60,7 +60,7 @@ function App() {
               <div className="flex items-center cursor-pointer" onClick={() => setCurrentView('landing')}>
                 <img
                   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9SDhWvIaGwyyoH9wENFZ4EFEqQCr4UXIVjw&s"
-                  alt="CredSphere Logo"
+                  alt="ZK LEDGER Logo"
                   className="w-8 h-8 rounded-lg object-cover"
                 />
                 <span className="ml-2 text-xl font-bold text-gray-900">

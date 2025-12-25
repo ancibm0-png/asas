@@ -143,7 +143,7 @@ export default function LoginPage({ onLogin, onBack }: LoginPageProps) {
             <div className="p-3 bg-gradient-to-br from-yellow-500 to-amber-600 rounded-xl shadow-lg shadow-yellow-500/50">
               <img
                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9SDhWvIaGwyyoH9wENFZ4EFEqQCr4UXIVjw&s"
-                alt="CredSphere Logo"
+                alt="ZK LEDGER Logo"
                 className="w-8 h-8 rounded-lg object-cover"
               />
             </div>
